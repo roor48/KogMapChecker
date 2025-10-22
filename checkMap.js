@@ -53,8 +53,7 @@ if (!existsSync(config.mapDirectory)) {
 }
 
 
-// config.json에서 URL 가져오기
-const mapUrl = config.url;
+const mapUrl = "https://kog.tw/get.php?p=maps";
 
 crawlWebsite(mapUrl)
     .then(data => {
