@@ -10,17 +10,11 @@
 }
 ```
 
-- `url`: 크롤링할 KoG 맵 페이지 URL
 - `mapDirectory`: 맵 파일이 저장된 디렉터리 경로 (절대 경로 권장)
-
-## 필요한 패키지 설치
-
-```bash
-npm install
-```
 
 **실행 방법:**
 ```bash
+npm install
 npm start
 ```
 
