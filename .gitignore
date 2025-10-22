@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# 출력 파일
+maps/
+maps.json
+missing_maps.json
+
+# 로그 파일
+*.log
+npm-debug.log*
+
+# 환경 변수
+.env
+.env.local
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# IDE 설정
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 테스트 출력
+test/

@@ -1,0 +1,12 @@
+{
+  "name": "kogmapchecker",
+  "description": "Check Kog Maps",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node checkMap"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cheerio": "^1.1.2"
+  }
+}
